@@ -20,7 +20,6 @@ use OAuth\UserData\Utils\StringUtils;
  */
 class Google extends LazyExtractor
 {
-
     /**
      * Request contants
      */
